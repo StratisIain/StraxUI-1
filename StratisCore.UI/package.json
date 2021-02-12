@@ -58,7 +58,7 @@
     "lint": "ng lint"
   },
   "dependencies": {
-    "@angular/cdk": "11.0.2",
+    "@angular/cdk": "11.1.0",
     "@aspnet/signalr": "1.1.4",
     "electron-context-menu": "2.3.0",
     "minimist": "1.2.5",
