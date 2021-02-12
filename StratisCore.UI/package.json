@@ -60,7 +60,7 @@
   "dependencies": {
     "@angular/cdk": "11.0.2",
     "@aspnet/signalr": "1.1.4",
-    "electron-context-menu": "2.3.0",
+    "electron-context-menu": "2.4.0",
     "minimist": "1.2.5",
     "ngx-pagination": "5.0.0",
     "@techiediaries/ngx-qrcode": "9.1.0",
